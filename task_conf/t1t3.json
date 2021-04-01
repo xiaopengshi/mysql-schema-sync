@@ -1,8 +1,8 @@
 {
    //t1
    "source": "test_rw:FHmz#8qlymiW@(172.26.8.71:3306)/test1",
-   //t2
-   "dest": "test2_rw:FHmz#8qlymiW@(172.26.8.29:3302)/test2",
+   //t3
+   "dest": "test3_rw:FHmz#8qlymiW@(172.26.8.29:3306)/test3",
    "alter_ignore": {
       "tb1*": {
          "column": [
