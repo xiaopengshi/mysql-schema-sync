@@ -30,6 +30,6 @@
       "from": "jt_roombox_notice@xdf.cn",
       "nick": "云教室测试库Schema变更通知",
       "password": "Roombox_notice",
-      "to": "g_rb_qa@xdf.cn,g_rb_java@xdf.cn,g_rb_devops@xdf.cn"
+      "to": "g_rb_qa@xdf.cn;g_rb_java@xdf.cn;g_rb_devops@xdf.cn"
    }
 }
