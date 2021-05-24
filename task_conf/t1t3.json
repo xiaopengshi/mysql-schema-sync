@@ -17,7 +17,7 @@
    },
    //  dbs: dbss to check schema, 
    "databases": [
-      "sac_mgmt"
+      "sac_mgmt","mgmt_db0","mgmt_db1"
    ],
    //  "databases":["mgmt_info","ms_data","mw_info","rb_data"],
    //  tables: table to check schema,default is all.eg :["order_*","goods"]
